@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```
 
 ### Running the Web Dashboard
-Launch the Streamlit web application:
+Launch the Streamlit web application::
 ```bash
 streamlit run appX.py
 ```
